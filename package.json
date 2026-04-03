@@ -1,7 +1,7 @@
 {
   "devDependencies": {
     "cypress": "^15.13.0",
-    "typescript": "^6.0.2"
+    "typescript": "^5.9.3"
   },
   "name": "cypresstaskboard",
   "version": "1.0.0",
